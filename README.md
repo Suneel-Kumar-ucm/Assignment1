@@ -1,6 +1,6 @@
 # Assignment1
 
-
+drive link: https://drive.google.com/file/d/1g3G0SBeZK3mHkyFaxOYL-ljeHkA7F2yN/view?usp=drive_link
 
 
 1. Write a python program for the following: – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it. Sample input: •python •Sample output: •ntyp
